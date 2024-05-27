@@ -14,6 +14,7 @@ const ExpenseList = () => {
               <th scope="col">Unit Price</th>
               <th scope="col">Items Price</th>
               <th scope="col">Remove</th>
+              <th scope="col">Remove</th>
             </tr>
           </thead>
             <tbody>
